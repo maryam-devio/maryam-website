@@ -1,0 +1,33 @@
+body {
+  font-family: Times New Roman, sans-serif;
+  background-color: #f4f9f4;
+  margin: 0;
+  padding: 22px;
+  color: #333;
+}
+h1 {
+  text-align: center;
+  color: #2c7a2c;
+}
+.container {
+  max-width: 900px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+p {
+  line-height: 1.5;
+  font-size: 14px;
+}
+.center-img {
+  display: block;
+  margin: 20px auto;
+  max-width: 350px;
+  border-radius: 12px;
+}
+img {
+  max-width: 250px;
+  height: auto;
+  margin: 10px;
+}
